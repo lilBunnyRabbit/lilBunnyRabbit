@@ -1,4 +1,10 @@
-### Hi there 👋
+## Socials
+* **[Discord](https://discord.com/users/237509022301814784)**  
+* **[Linkedin](https://www.linkedin.com/in/andraz-mesaric-sirec-207371114/)**  
+* **[Twitter](https://twitter.com/lilBunnyRabbit_)**  
+
+## Public Projects
+* **[Static Utils](https://lilbunnyrabbit.github.io/static-utils/)**
 
 <!--
 **lilBunnyRabbit/lilBunnyRabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
