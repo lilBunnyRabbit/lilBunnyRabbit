@@ -1,5 +1,6 @@
 ## Socials
 * **[Discord](https://discord.com/users/237509022301814784)**  
+* **[Discord Server](https://discord.gg/fznWDyqvTM)**
 * **[Linkedin](https://www.linkedin.com/in/andraz-mesaric-sirec-207371114/)**  
 * **[Twitter](https://twitter.com/lilBunnyRabbit_)**  
 
