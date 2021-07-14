@@ -6,6 +6,7 @@
 
 ## Public Projects
 * **[Static Utils](https://lilbunnyrabbit.github.io/static-utils/)**
+* **[Discord Voice Chat Overlay Generator](https://lilbunnyrabbit.github.io/discord-vc-overlay/)**
 
 <!--
 **lilBunnyRabbit/lilBunnyRabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
