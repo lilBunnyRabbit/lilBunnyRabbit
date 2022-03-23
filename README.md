@@ -5,6 +5,7 @@
 * **[Twitter](https://twitter.com/lilBunnyRabbit_)**  
 
 ## Public Projects
+* **[CDN](https://github.com/lilBunnyRabbit/cdn)**
 * **[Static Utils](https://lilbunnyrabbit.github.io/static-utils/)**
 * **[Discord Voice Chat Overlay Generator](https://lilbunnyrabbit.github.io/discord-vc-overlay/)**
 * **[PixelArt](https://lilbunnyrabbit.github.io/pixelart/)**
