@@ -4,10 +4,10 @@
 * **[Twitter](https://twitter.com/lilBunnyRabbit_)**  
 
 ## Public Projects
-* **[CDN](https://github.com/lilBunnyRabbit/cdn)**
-* **[Static Utils](https://lilbunnyrabbit.github.io/static-utils/)**
-* **[Discord Voice Chat Overlay Generator](https://lilbunnyrabbit.github.io/discord-vc-overlay/)**
-* **[PixelArt](https://lilbunnyrabbit.github.io/pixelart/)**
+* **[Static Utils](https://lilbunnyrabbit.github.io/static-utils/)** - A collection of usefull static sites written in vanilla HTML.
+* **[Discord Voice Chat Overlay Generator](https://lilbunnyrabbit.github.io/discord-vc-overlay/)** - Discord voice chat overlay generator for OBS.
+* **[PixelArt](https://lilbunnyrabbit.github.io/pixelart/)** - PixelArt by lilBunnyRabbit.
+* **[lilState](https://lilbunnyrabbit.github.io/lilstate/)** - JavaScript library for state management.
 
 <!--
 **lilBunnyRabbit/lilBunnyRabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
