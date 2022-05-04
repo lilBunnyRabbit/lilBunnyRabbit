@@ -7,7 +7,7 @@
 * **[Static Utils](https://lilbunnyrabbit.github.io/static-utils/)** - A collection of usefull static sites written in vanilla HTML.
 * **[Discord Voice Chat Overlay Generator](https://lilbunnyrabbit.github.io/discord-vc-overlay/)** - Discord voice chat overlay generator for OBS.
 * **[PixelArt](https://lilbunnyrabbit.github.io/pixelart/)** - PixelArt by lilBunnyRabbit.
-* **[lilState](https://lilbunnyrabbit.github.io/lilstate/)** - JavaScript library for state management.
+* **[lilState](https://github.com/lilBunnyRabbit/lilstate)** - JavaScript library for state management.
 
 <!--
 **lilBunnyRabbit/lilBunnyRabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
