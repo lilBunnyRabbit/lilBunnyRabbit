@@ -9,6 +9,11 @@
 * **[PixelArt](https://lilbunnyrabbit.github.io/pixelart/)** - PixelArt by lilBunnyRabbit.
 * **[lilState](https://github.com/lilBunnyRabbit/lilstate)** - JavaScript library for state management.
 
+## Libraries
+
+* **[Service Observer](https://github.com/lilBunnyRabbit/service-observer)** [![npm version](https://img.shields.io/npm/v/@lilbunnyrabbit/service-observer.svg)](https://www.npmjs.com/package/@lilbunnyrabbit/service-observer)
+
+
 <!--
 **lilBunnyRabbit/lilBunnyRabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
