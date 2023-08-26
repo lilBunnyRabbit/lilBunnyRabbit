@@ -14,6 +14,8 @@
 * **[Service Observer](https://github.com/lilBunnyRabbit/service-observer)** [![npm version](https://img.shields.io/npm/v/@lilbunnyrabbit/service-observer.svg)](https://www.npmjs.com/package/@lilbunnyrabbit/service-observer)
 * **[Statefulia](https://github.com/lilBunnyRabbit/statefulia)** [![npm version](https://img.shields.io/npm/v/@lilbunnyrabbit/statefulia.svg)](https://www.npmjs.com/package/@lilbunnyrabbit/statefulia)
 
+## Gists
+* **[TypeScript implementation of Java Optional](https://gist.github.com/lilBunnyRabbit/ab44b9bafca79cf1fa8024d833a60e24)**
 <!--
 **lilBunnyRabbit/lilBunnyRabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
