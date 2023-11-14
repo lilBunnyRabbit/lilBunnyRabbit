@@ -15,7 +15,8 @@
 * **[Statefulia](https://github.com/lilBunnyRabbit/statefulia)** [![npm version](https://img.shields.io/npm/v/@lilbunnyrabbit/statefulia.svg)](https://www.npmjs.com/package/@lilbunnyrabbit/statefulia)
 
 ## Gists
-* **[TypeScript implementation of Java Optional](https://gist.github.com/lilBunnyRabbit/ab44b9bafca79cf1fa8024d833a60e24)**
+* **[Event Handling in TypeScript: `EventEmitter`](https://gist.github.com/lilBunnyRabbit/5c4370375c4974220f20c8b7a392de91)**
+* **[TypeScript implementation of java.util.Optional<T>: `Optional<T>`](https://gist.github.com/lilBunnyRabbit/ab44b9bafca79cf1fa8024d833a60e24)**
 <!--
 **lilBunnyRabbit/lilBunnyRabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
