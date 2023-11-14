@@ -11,8 +11,8 @@
 
 ## Libraries
 
-* **[Service Observer](https://github.com/lilBunnyRabbit/service-observer)** [![npm version](https://img.shields.io/npm/v/@lilbunnyrabbit/service-observer.svg)](https://www.npmjs.com/package/@lilbunnyrabbit/service-observer)
-* **[Statefulia](https://github.com/lilBunnyRabbit/statefulia)** [![npm version](https://img.shields.io/npm/v/@lilbunnyrabbit/statefulia.svg)](https://www.npmjs.com/package/@lilbunnyrabbit/statefulia)
+* **[Service Observer](https://github.com/lilBunnyRabbit/service-observer)** [![npm version](https://img.shields.io/npm/v/@lilbunnyrabbit/service-observer.svg)](https://www.npmjs.com/package/@lilbunnyrabbit/service-observer) - Convenient way to observe and react to events within a service or application.
+* **[Statefulia](https://github.com/lilBunnyRabbit/statefulia)** [![npm version](https://img.shields.io/npm/v/@lilbunnyrabbit/statefulia.svg)](https://www.npmjs.com/package/@lilbunnyrabbit/statefulia) - JavaScript/TypeScript library for state management.
 
 ## Gists
 * **[Event Handling in TypeScript: `EventEmitter`](https://gist.github.com/lilBunnyRabbit/5c4370375c4974220f20c8b7a392de91)**
