@@ -13,6 +13,7 @@
 
 * **[Service Observer](https://github.com/lilBunnyRabbit/service-observer)** [![npm version](https://img.shields.io/npm/v/@lilbunnyrabbit/service-observer.svg)](https://www.npmjs.com/package/@lilbunnyrabbit/service-observer) - Convenient way to observe and react to events within a service or application.
 * **[Statefulia](https://github.com/lilBunnyRabbit/statefulia)** [![npm version](https://img.shields.io/npm/v/@lilbunnyrabbit/statefulia.svg)](https://www.npmjs.com/package/@lilbunnyrabbit/statefulia) - JavaScript/TypeScript library for state management.
+* **[TypeScript Utils](https://github.com/lilBunnyRabbit/typescript-utils)** [![npm version](https://img.shields.io/npm/v/@lilbunnyrabbit/utils.svg)](https://www.npmjs.com/package/@lilbunnyrabbit/utils) - TypeScript library containing a collection of utility classes, functions, etc.
 
 ## Gists
 * **[TypeScript Event Handling](https://gist.github.com/lilBunnyRabbit/5c4370375c4974220f20c8b7a392de91)**
