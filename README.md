@@ -1,7 +1,7 @@
 ## Socials
 * **[Discord](https://discord.com/users/237509022301814784)**  
 * **[Linkedin](https://www.linkedin.com/in/andraz-mesaric-sirec-207371114/)**  
-* **[Twitter](https://twitter.com/lilBunnyRabbit_)**  
+* **[Twitter](https://twitter.com/amesaricsirec)**  
 
 ## Public Projects
 * **[Static Utils](https://lilbunnyrabbit.github.io/static-utils/)** - A collection of usefull static sites written in vanilla HTML.
