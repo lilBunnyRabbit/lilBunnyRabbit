@@ -1,16 +1,46 @@
 <h2>🙋‍♂️ About Me</h2>
 
-Currently undergoing a full system upgrade to Human 2.0 – please excuse any temporary malfunctions. In the meantime, enjoy this placeholder personality. 🚀
+Currently undergoing a full system upgrade to Human 2.0 - please excuse any temporary malfunctions. In the meantime,
+enjoy this placeholder personality. 🚀
 
 <h2>🌐 Socials</h2>
 
-- <img src="https://lilbunnyrabbit.github.io/readme-icons/linkedin.svg" width="22px" height="16px"> Linkedin: [@andraz-mesaric-sirec](linkedin.com/in/andraz-mesaric-sirec)
-- <img src="https://lilbunnyrabbit.github.io/readme-icons/x.svg" width="22px" height="16px"> Twitter: [@amesaricsirec](https://twitter.com/amesaricsirec)
-- Stack Overflow: [@lilBunnyRabbit](https://stackoverflow.com/users/11786580)
-- <img src="https://lilbunnyrabbit.github.io/readme-icons/discord.svg" width="22px" height="16px"> Discord: [@lilbunnyrabbit](https://discord.com/users/237509022301814784)
-- 📧 Email: [amesaricsirec@gmail.com](mailto:amesaricsirec@gmail.com)
+<a href="https://linkedin.com/in/andraz-mesaric-sirec">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-%40andraz--mesaric--sirec-%23505050?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230077b5"
+    alt="LinkedIn Link">
+</a>
 
-Feel free to reach out to me on any of my socials or via email for collaborations or just a chat. Looking forward to connecting with you!
+<a href="https://twitter.com/amesaricsirec">
+  <img src="https://img.shields.io/badge/Twitter-%40amesaricsirec-%23505050?style=for-the-badge&logo=x&logoColor=white&labelColor=%23000000"
+    alt="Twitter Link">
+</a>
+
+<a href="https://stackoverflow.com/users/11786580">
+  <img src="https://img.shields.io/badge/Stack_Overflow-%40lilBunnyRabbit-%23505050?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=%23F48024"
+    alt="Stack Overflow Link">
+</a>
+
+<a href="https://discord.com/users/237509022301814784">
+  <img
+    src="https://img.shields.io/badge/Discord-%40lilbunnyrabbit-%23505050?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2"
+    alt="Discord Link">
+</a>
+
+<a href="https://www.reddit.com/user/lilBunnyRabbit/">
+  <img
+    src="https://img.shields.io/badge/Reddit-%40lilBunnyRabbit-%23505050?style=for-the-badge&logo=reddit&logoColor=white&labelColor=%23FF4500"
+    alt="Reddit Link">
+</a>
+
+<a href="mailto:amesaricsirec@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-amesaricsirec%40gmail.com-%23505050?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%23c71610"
+    alt="Email Link">
+</a>
+
+Feel free to reach out to me on any of my socials or via email for collaborations or just a chat. Looking forward to
+connecting with you!
 
 <h2><img src="https://lilbunnyrabbit.github.io/readme-icons/npm.svg" height="20px">&nbsp;&nbsp;NPM Packages</h2>
 
@@ -26,23 +56,27 @@ Feel free to reach out to me on any of my socials or via email for collaboration
   <tbody>
     <tr>
       <td><a href="https://github.com/lilBunnyRabbit/service-observer">Service Observer</a></td>
-      <td><a href="https://www.npmjs.com/package/@lilbunnyrabbit/service-observer"><img src="https://img.shields.io/npm/v/@lilbunnyrabbit/service-observer.svg" alt="npm version"></a></td>
+      <td><a href="https://www.npmjs.com/package/@lilbunnyrabbit/service-observer"><img
+            src="https://img.shields.io/npm/v/@lilbunnyrabbit/service-observer.svg" alt="npm version"></a></td>
       <td>Convenient way to observe and react to events within a service or application.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/lilBunnyRabbit/statefulia">Statefulia</a></td>
-      <td><a href="https://www.npmjs.com/package/@lilbunnyrabbit/statefulia"><img src="https://img.shields.io/npm/v/@lilbunnyrabbit/statefulia.svg" alt="npm version"></a></td>
+      <td><a href="https://www.npmjs.com/package/@lilbunnyrabbit/statefulia"><img
+            src="https://img.shields.io/npm/v/@lilbunnyrabbit/statefulia.svg" alt="npm version"></a></td>
       <td>JavaScript/TypeScript library for state management.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/lilBunnyRabbit/typescript-utils">TypeScript Utils</a></td>
-      <td><a href="https://www.npmjs.com/package/@lilbunnyrabbit/utils"><img src="https://img.shields.io/npm/v/@lilbunnyrabbit/utils.svg" alt="npm version"></a></td>
+      <td><a href="https://www.npmjs.com/package/@lilbunnyrabbit/utils"><img
+            src="https://img.shields.io/npm/v/@lilbunnyrabbit/utils.svg" alt="npm version"></a></td>
       <td>TypeScript library containing a collection of utility classes, functions, etc.</td>
     </tr>
   </tbody>
 </table>
 
-<h2><img src="https://lilbunnyrabbit.github.io/readme-icons/github.svg" height="20px">&nbsp;&nbsp;Projects Hosted on GitHub Pages</h2>
+<h2><img src="https://lilbunnyrabbit.github.io/readme-icons/github.svg" height="20px">&nbsp;&nbsp;Projects Hosted on
+  GitHub Pages</h2>
 
 <table>
   <thead>
@@ -58,27 +92,34 @@ Feel free to reach out to me on any of my socials or via email for collaboration
     <tr>
       <td><a href="https://lilbunnyrabbit.github.io/advent-of-code">Advent of Code Solutions</a></td>
       <td>
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo" title="TypeScript">
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
+          title="TypeScript">
         &nbsp;
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo" title="Svelte">
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo"
+          title="Svelte">
       </td>
-      <td>Collection of my personal approaches to solving the puzzles presented by <a href="https://adventofcode.com/">Advent of Code</a>.</td>
+      <td>Collection of my personal approaches to solving the puzzles presented by <a
+          href="https://adventofcode.com/">Advent of Code</a>.</td>
     </tr>
     <tr>
       <td>🚧 <a href="https://lilbunnyrabbit.github.io/speed-reader/">Speed Reader</a></td>
       <td>
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo" title="TypeScript">
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
+          title="TypeScript">
         &nbsp;
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo" title="Svelte">
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo"
+          title="Svelte">
       </td>
       <td>Optimizes reading with rapid, adjustable text display for improved speed and comprehension.</td>
     </tr>
     <tr>
       <td>🚧 <a href="https://github.com/static-utils-v2">Static Utils V3</a></td>
       <td>
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo" title="TypeScript">
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
+          title="TypeScript">
         &nbsp;
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo" title="Svelte">
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo"
+          title="Svelte">
       </td>
       <td>A collection of usefull static sites written in Svelte.</td>
     </tr>
@@ -86,7 +127,8 @@ Feel free to reach out to me on any of my socials or via email for collaboration
     <tr>
       <td>🚧 <a href="https://github.com/static-utils-v2">Static Utils V2</a></td>
       <td>
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo" title="TypeScript">
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
+          title="TypeScript">
         &nbsp;
         <img src="https://lilbunnyrabbit.github.io/readme-icons/react.svg" height="20px" alt="React Logo" title="React">
       </td>
@@ -95,7 +137,8 @@ Feel free to reach out to me on any of my socials or via email for collaboration
     <tr>
       <td><a href="https://lilbunnyrabbit.github.io/work-hours">Work Hours</a></td>
       <td>
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo" title="TypeScript">
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
+          title="TypeScript">
         &nbsp;
         <img src="https://lilbunnyrabbit.github.io/readme-icons/react.svg" height="20px" alt="React Logo" title="React">
       </td>
@@ -105,9 +148,11 @@ Feel free to reach out to me on any of my socials or via email for collaboration
     <tr>
       <td><a href="https://lilbunnyrabbit.github.io/pixelart/">PixelArt</a></td>
       <td>
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/aseprite.svg" height="20px" alt="Aseprite Logo" title="Aseprite">
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/aseprite.svg" height="20px" alt="Aseprite Logo"
+          title="Aseprite">
         &nbsp;
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/jekyll.svg" height="20px" alt="Jekyll Logo" title="Jekyll">
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/jekyll.svg" height="20px" alt="Jekyll Logo"
+          title="Jekyll">
       </td>
       <td>PixelArt by lilBunnyRabbit.</td>
     </tr>
@@ -115,16 +160,19 @@ Feel free to reach out to me on any of my socials or via email for collaboration
     <tr>
       <td><a href="https://lilbunnyrabbit.github.io/discord-vc-overlay/">Discord Voice Chat Overlay Generator</a></td>
       <td>
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/javascript.svg" height="20px" alt="JavaScript Logo" title="JavaScript">
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/javascript.svg" height="20px" alt="JavaScript Logo"
+          title="JavaScript">
         &nbsp;
         <img src="https://lilbunnyrabbit.github.io/readme-icons/html.svg" height="20px" alt="HTML Logo" title="HTML">
       </td>
-      <td><a href="https://discord.com/">Discord</a> voice chat overlay generator for <a href="https://obsproject.com/">OBS</a>.</td>
+      <td><a href="https://discord.com/">Discord</a> voice chat overlay generator for <a
+          href="https://obsproject.com/">OBS</a>.</td>
     </tr>
     <tr>
       <td><a href="https://lilbunnyrabbit.github.io/discord-webhook-generator">Discord Webhook Generator</a></td>
       <td>
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/javascript.svg" height="20px" alt="JavaScript Logo" title="JavaScript">
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/javascript.svg" height="20px" alt="JavaScript Logo"
+          title="JavaScript">
         &nbsp;
         <img src="https://lilbunnyrabbit.github.io/readme-icons/html.svg" height="20px" alt="HTML Logo" title="HTML">
       </td>
@@ -133,7 +181,8 @@ Feel free to reach out to me on any of my socials or via email for collaboration
     <tr>
       <td><a href="https://lilbunnyrabbit.github.io/e-loterija">E-Loterija</td>
       <td>
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/javascript.svg" height="20px" alt="JavaScript Logo" title="JavaScript">
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/javascript.svg" height="20px" alt="JavaScript Logo"
+          title="JavaScript">
         &nbsp;
         <img src="https://lilbunnyrabbit.github.io/readme-icons/html.svg" height="20px" alt="HTML Logo" title="HTML">
       </td>
@@ -142,7 +191,8 @@ Feel free to reach out to me on any of my socials or via email for collaboration
     <tr>
       <td><a href="https://lilbunnyrabbit.github.io/lilBot-soundboard">lilBot Soundboard</td>
       <td>
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/javascript.svg" height="20px" alt="JavaScript Logo" title="JavaScript">
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/javascript.svg" height="20px" alt="JavaScript Logo"
+          title="JavaScript">
         &nbsp;
         <img src="https://lilbunnyrabbit.github.io/readme-icons/html.svg" height="20px" alt="HTML Logo" title="HTML">
       </td>
@@ -151,7 +201,8 @@ Feel free to reach out to me on any of my socials or via email for collaboration
     <tr>
       <td>🚧 <a href="https://lilbunnyrabbit.github.io/lilTheme/">lilTheme</a></td>
       <td>
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/javascript.svg" height="20px" alt="JavaScript Logo" title="JavaScript">
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/javascript.svg" height="20px" alt="JavaScript Logo"
+          title="JavaScript">
         &nbsp;
         <img src="https://lilbunnyrabbit.github.io/readme-icons/html.svg" height="20px" alt="HTML Logo" title="HTML">
       </td>
@@ -160,7 +211,8 @@ Feel free to reach out to me on any of my socials or via email for collaboration
     <tr>
       <td><a href="https://lilbunnyrabbit.github.io/cdn/libs/lilstate/0.2.0/docs.html">lilState</a></td>
       <td>
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/javascript.svg" height="20px" alt="JavaScript Logo" title="JavaScript">
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/javascript.svg" height="20px" alt="JavaScript Logo"
+          title="JavaScript">
         &nbsp;
         <img src="https://lilbunnyrabbit.github.io/readme-icons/html.svg" height="20px" alt="HTML Logo" title="HTML">
       </td>
@@ -169,7 +221,8 @@ Feel free to reach out to me on any of my socials or via email for collaboration
     <tr>
       <td><a href="https://lilbunnyrabbit.github.io/static-utils/">Static Utils</a></td>
       <td>
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/javascript.svg" height="20px" alt="JavaScript Logo" title="JavaScript">
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/javascript.svg" height="20px" alt="JavaScript Logo"
+          title="JavaScript">
         &nbsp;
         <img src="https://lilbunnyrabbit.github.io/readme-icons/html.svg" height="20px" alt="HTML Logo" title="HTML">
       </td>
@@ -212,8 +265,10 @@ Other:
 - 
 -->
 
-<h2><img src="https://lilbunnyrabbit.github.io/readme-icons/github.svg" height="20px">&nbsp;&nbsp;Github Gists Worth Mentioning</h2>
+<h2><img src="https://lilbunnyrabbit.github.io/readme-icons/github.svg" height="20px">&nbsp;&nbsp;Github Gists Worth
+  Mentioning</h2>
 
-- **[TypeScript Event Handling](https://gist.github.com/lilBunnyRabbit/5c4370375c4974220f20c8b7a392de91)**
-- **[TypeScript Task Management System](https://gist.github.com/lilBunnyRabbit/8ba9a800b7cf9f91df84e15e9a2d6faa)**
-- **[TypeScript implementation of java.util.Optional<T>](https://gist.github.com/lilBunnyRabbit/ab44b9bafca79cf1fa8024d833a60e24)**
+- [TypeScript Event Handling](https://gist.github.com/lilBunnyRabbit/5c4370375c4974220f20c8b7a392de91)
+- [TypeScript Task Management System](https://gist.github.com/lilBunnyRabbit/8ba9a800b7cf9f91df84e15e9a2d6faa)
+- [TypeScript implementation of java.util.Optional<T>
+  ](https://gist.github.com/lilBunnyRabbit/ab44b9bafca79cf1fa8024d833a60e24)
