@@ -7,38 +7,41 @@ enjoy this placeholder personality. 🚀
 
 <a href="https://linkedin.com/in/andraz-mesaric-sirec">
   <img
-    src="https://img.shields.io/badge/LinkedIn-%40andraz--mesaric--sirec-%23505050?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230077b5"
+    src="https://img.shields.io/badge/LinkedIn-%40andraz--mesaric--sirec-%23505050?logo=linkedin&logoColor=white&labelColor=%230077b5"
     alt="LinkedIn Link">
-</a>
-
-<a href="https://twitter.com/amesaricsirec">
-  <img src="https://img.shields.io/badge/Twitter-%40amesaricsirec-%23505050?style=for-the-badge&logo=x&logoColor=white&labelColor=%23000000"
-    alt="Twitter Link">
-</a>
-
-<a href="https://stackoverflow.com/users/11786580">
-  <img src="https://img.shields.io/badge/Stack_Overflow-%40lilBunnyRabbit-%23505050?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=%23F48024"
-    alt="Stack Overflow Link">
 </a>
 
 <a href="https://discord.com/users/237509022301814784">
   <img
-    src="https://img.shields.io/badge/Discord-%40lilbunnyrabbit-%23505050?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2"
+    src="https://img.shields.io/badge/Discord-%40lilbunnyrabbit-%23505050?logo=discord&logoColor=white&labelColor=%235865F2"
     alt="Discord Link">
+</a>
+
+<a href="https://twitter.com/amesaricsirec">
+  <img
+    src="https://img.shields.io/badge/Twitter-%40amesaricsirec-%23505050?logo=x&logoColor=white&labelColor=%23000000"
+    alt="Twitter Link">
+</a>
+
+<a href="https://stackoverflow.com/users/11786580">
+  <img
+    src="https://img.shields.io/badge/Stack_Overflow-%40lilBunnyRabbit-%23505050?logo=stackoverflow&logoColor=white&labelColor=%23F48024"
+    alt="Stack Overflow Link">
 </a>
 
 <a href="https://www.reddit.com/user/lilBunnyRabbit/">
   <img
-    src="https://img.shields.io/badge/Reddit-%40lilBunnyRabbit-%23505050?style=for-the-badge&logo=reddit&logoColor=white&labelColor=%23FF4500"
+    src="https://img.shields.io/badge/Reddit-%40lilBunnyRabbit-%23505050?logo=reddit&logoColor=white&labelColor=%23FF4500"
     alt="Reddit Link">
 </a>
 
 <a href="mailto:amesaricsirec@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-amesaricsirec%40gmail.com-%23505050?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%23c71610"
+    src="https://img.shields.io/badge/Email-amesaricsirec%40gmail.com-%23505050?logo=gmail&logoColor=white&labelColor=%23c71610"
     alt="Email Link">
 </a>
-
+<br/>
+<br/>
 Feel free to reach out to me on any of my socials or via email for collaborations or just a chat. Looking forward to
 connecting with you!
 
