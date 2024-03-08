@@ -4,16 +4,21 @@
 * **[Twitter](https://twitter.com/amesaricsirec)**  
 
 ## Public Projects
-* **[Static Utils](https://lilbunnyrabbit.github.io/static-utils/)** - A collection of usefull static sites written in vanilla HTML.
-* **[Discord Voice Chat Overlay Generator](https://lilbunnyrabbit.github.io/discord-vc-overlay/)** - Discord voice chat overlay generator for OBS.
-* **[PixelArt](https://lilbunnyrabbit.github.io/pixelart/)** - PixelArt by lilBunnyRabbit.
-* **[lilState](https://github.com/lilBunnyRabbit/lilstate)** - JavaScript library for state management.
 
-## Libraries
+| Project                                                                                          | Description                                                   |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
+| **[Static Utils](https://lilbunnyrabbit.github.io/static-utils/)**                               | A collection of usefull static sites written in vanilla HTML. |
+| **[Discord Voice Chat Overlay Generator](https://lilbunnyrabbit.github.io/discord-vc-overlay/)** | Discord voice chat overlay generator for OBS.                 |
+| **[PixelArt](https://lilbunnyrabbit.github.io/pixelart/)**                                       | PixelArt by lilBunnyRabbit.                                   |
+| **[lilState](https://github.com/lilBunnyRabbit/lilstate)**                                       | JavaScript library for state management.                      |
 
-* **[Service Observer](https://github.com/lilBunnyRabbit/service-observer)** [![npm version](https://img.shields.io/npm/v/@lilbunnyrabbit/service-observer.svg)](https://www.npmjs.com/package/@lilbunnyrabbit/service-observer) - Convenient way to observe and react to events within a service or application.
-* **[Statefulia](https://github.com/lilBunnyRabbit/statefulia)** [![npm version](https://img.shields.io/npm/v/@lilbunnyrabbit/statefulia.svg)](https://www.npmjs.com/package/@lilbunnyrabbit/statefulia) - JavaScript/TypeScript library for state management.
-* **[TypeScript Utils](https://github.com/lilBunnyRabbit/typescript-utils)** [![npm version](https://img.shields.io/npm/v/@lilbunnyrabbit/utils.svg)](https://www.npmjs.com/package/@lilbunnyrabbit/utils) - TypeScript library containing a collection of utility classes, functions, etc.
+## NPM Packages
+
+| Project                                                                    | NPM Version                                                                                                                                         | Description                                                                    |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| **[Service Observer](https://github.com/lilBunnyRabbit/service-observer)** | [![npm version](https://img.shields.io/npm/v/@lilbunnyrabbit/service-observer.svg)](https://www.npmjs.com/package/@lilbunnyrabbit/service-observer) | Convenient way to observe and react to events within a service or application. |
+| **[Statefulia](https://github.com/lilBunnyRabbit/statefulia)**             | [![npm version](https://img.shields.io/npm/v/@lilbunnyrabbit/statefulia.svg)](https://www.npmjs.com/package/@lilbunnyrabbit/statefulia)             | JavaScript/TypeScript library for state management.                            |
+| **[TypeScript Utils](https://github.com/lilBunnyRabbit/typescript-utils)** | [![npm version](https://img.shields.io/npm/v/@lilbunnyrabbit/utils.svg)](https://www.npmjs.com/package/@lilbunnyrabbit/utils)                       | TypeScript library containing a collection of utility classes, functions, etc. |
 
 ## Gists
 * **[TypeScript Event Handling](https://gist.github.com/lilBunnyRabbit/5c4370375c4974220f20c8b7a392de91)**
