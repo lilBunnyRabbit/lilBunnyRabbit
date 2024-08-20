@@ -5,14 +5,26 @@ enjoy this placeholder personality. 🚀
 
 <h2>🌐 Socials</h2>
 
-<a href="https://linkedin.com/in/andraz-mesaric-sirec"><img src="https://img.shields.io/badge/LinkedIn-%40andraz--mesaric--sirec-%23505050?logo=linkedin&logoColor=white&labelColor=%230077b5" alt="LinkedIn Link"></a>
-<a href="https://discord.com/users/237509022301814784"><img src="https://img.shields.io/badge/Discord-%40lilbunnyrabbit-%23505050?logo=discord&logoColor=white&labelColor=%235865F2" alt="Discord Link"></a>
-<a href="https://twitter.com/amesaricsirec"><img src="https://img.shields.io/badge/Twitter-%40amesaricsirec-%23505050?logo=x&logoColor=white&labelColor=%23000000" alt="Twitter Link"></a>
-<a href="https://stackoverflow.com/users/11786580"><img src="https://img.shields.io/badge/Stack_Overflow-%40lilBunnyRabbit-%23505050?logo=stackoverflow&logoColor=white&labelColor=%23F48024" alt="Stack Overflow Link"></a>
-<a href="https://www.reddit.com/user/lilBunnyRabbit/"><img src="https://img.shields.io/badge/Reddit-%40lilBunnyRabbit-%23505050?logo=reddit&logoColor=white&labelColor=%23FF4500" alt="Reddit Link"></a>
-<a href="mailto:amesaricsirec@gmail.com"><img src="https://img.shields.io/badge/Email-amesaricsirec%40gmail.com-%23505050?logo=gmail&logoColor=white&labelColor=%23c71610" alt="Email Link"></a>
-<br/>
-<br/>
+<a href="https://linkedin.com/in/andraz-mesaric-sirec"><img
+    src="https://img.shields.io/badge/LinkedIn-%40andraz--mesaric--sirec-%23505050?logo=linkedin&logoColor=white&labelColor=%230077b5"
+    alt="LinkedIn Link"></a>
+<a href="https://discord.com/users/237509022301814784"><img
+    src="https://img.shields.io/badge/Discord-%40lilbunnyrabbit-%23505050?logo=discord&logoColor=white&labelColor=%235865F2"
+    alt="Discord Link"></a>
+<a href="https://twitter.com/amesaricsirec"><img
+    src="https://img.shields.io/badge/Twitter-%40amesaricsirec-%23505050?logo=x&logoColor=white&labelColor=%23000000"
+    alt="Twitter Link"></a>
+<a href="https://stackoverflow.com/users/11786580"><img
+    src="https://img.shields.io/badge/Stack_Overflow-%40lilBunnyRabbit-%23505050?logo=stackoverflow&logoColor=white&labelColor=%23F48024"
+    alt="Stack Overflow Link"></a>
+<a href="https://www.reddit.com/user/lilBunnyRabbit/"><img
+    src="https://img.shields.io/badge/Reddit-%40lilBunnyRabbit-%23505050?logo=reddit&logoColor=white&labelColor=%23FF4500"
+    alt="Reddit Link"></a>
+<a href="mailto:amesaricsirec@gmail.com"><img
+    src="https://img.shields.io/badge/Email-amesaricsirec%40gmail.com-%23505050?logo=gmail&logoColor=white&labelColor=%23c71610"
+    alt="Email Link"></a>
+<br />
+<br />
 Feel free to reach out to me on any of my socials or via email for collaborations or just a chat. Looking forward to
 connecting with you!
 
@@ -76,7 +88,25 @@ connecting with you!
           href="https://adventofcode.com/">Advent of Code</a>.</td>
     </tr>
     <tr>
-      <td>🚧 <a href="https://lilbunnyrabbit.github.io/speed-reader/">Speed Reader</a></td>
+      <td>🚧 <a href="https://lilbunnyrabbit.github.io/chromatics">Chromatics</a></td>
+      <td>
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
+          title="TypeScript">
+        &nbsp;
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/npm.svg" height="20px" alt="NPM Logo"
+          title="NPM">
+        &nbsp;
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo"
+          title="Svelte">
+      </td>
+      <td>
+        Color parser/builder/editor/converter/...
+        <br />
+        <blockquote><a href="https://github.com/lilBunnyRabbit/chromatics/tree/dev">Development branch</a></blockquote>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://lilbunnyrabbit.github.io/speed-reader/">Speed Reader</a></td>
       <td>
         <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
           title="TypeScript">
@@ -86,28 +116,7 @@ connecting with you!
       </td>
       <td>Optimizes reading with rapid, adjustable text display for improved speed and comprehension.</td>
     </tr>
-    <tr>
-      <td>🚧 <a href="https://github.com/static-utils-v3">Static Utils V3</a></td>
-      <td>
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
-          title="TypeScript">
-        &nbsp;
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo"
-          title="Svelte">
-      </td>
-      <td>A collection of usefull static sites written in Svelte.</td>
-    </tr>
     <!-- React -->
-    <tr>
-      <td>🚧 <a href="https://github.com/static-utils-v2">Static Utils V2</a></td>
-      <td>
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
-          title="TypeScript">
-        &nbsp;
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/react.svg" height="20px" alt="React Logo" title="React">
-      </td>
-      <td>A collection of usefull static sites written in React.</td>
-    </tr>
     <tr>
       <td><a href="https://lilbunnyrabbit.github.io/work-hours">Work Hours</a></td>
       <td>
@@ -160,7 +169,11 @@ connecting with you!
         &nbsp;
         <img src="https://lilbunnyrabbit.github.io/readme-icons/html.svg" height="20px" alt="HTML Logo" title="HTML">
       </td>
-      <td>Random number generator for the games provided by the Slovenian Lottery company.</td>
+      <td>
+        Random number generator for the games provided by the Slovenian Lottery company.
+        <br />
+        <blockquote><i>🚧 v2 with different seed generators</i></blockquote>
+      </td>
     </tr>
     <tr>
       <td><a href="https://lilbunnyrabbit.github.io/lilBot-soundboard">lilBot Soundboard</td>
@@ -193,14 +206,33 @@ connecting with you!
       <td>JavaScript library for state management.</td>
     </tr>
     <tr>
-      <td><a href="https://lilbunnyrabbit.github.io/static-utils/">Static Utils</a></td>
+      <td>
+        <a href="https://lilbunnyrabbit.github.io/static-utils/">Static Utils</a>
+        <br />
+        🚧 <a href="https://lilbunnyrabbit.github.io/static-utils-v2/">Static Utils V2</a>
+        <br />
+        🚧 <a href="https://lilbunnyrabbit.github.io/static-utils-v3/">Static Utils V3</a>
+      </td>
       <td>
         <img src="https://lilbunnyrabbit.github.io/readme-icons/javascript.svg" height="20px" alt="JavaScript Logo"
           title="JavaScript">
         &nbsp;
         <img src="https://lilbunnyrabbit.github.io/readme-icons/html.svg" height="20px" alt="HTML Logo" title="HTML">
+        <br />
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
+          title="TypeScript">
+        &nbsp;
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/react.svg" height="20px" alt="React Logo" title="React">
+        <br />
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
+          title="TypeScript">
+        &nbsp;
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo"
+          title="Svelte">
       </td>
-      <td>A collection of usefull static sites written in vanilla HTML.</td>
+      <td>
+        A collection of usefull static sites.
+      </td>
     </tr>
     <tr>
       <td><a href="https://lilbunnyrabbit.github.io/readme-icons/">README Icons</a></td>
@@ -266,6 +298,13 @@ Other:
       </td>
       <td>Minecraft datapack that allows players to buy and fly special coal-powered boats.</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/lilBunnyRabbit/lilBot-minecraft-plugin">lilBot Minecraft Plugin</a></td>
+      <td>
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/java.svg" height="20px" alt="Java Logo" title="Java">
+      </td>
+      <td>Minecraft plugin that connects discord chat with minecraft and some additional commands.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -276,3 +315,12 @@ Other:
 - [TypeScript Task Management System](https://gist.github.com/lilBunnyRabbit/8ba9a800b7cf9f91df84e15e9a2d6faa)
 - [TypeScript implementation of java.util.Optional<T>
   ](https://gist.github.com/lilBunnyRabbit/ab44b9bafca79cf1fa8024d833a60e24)
+
+
+
+  <!--
+WIP:
+- https://github.com/lilBunnyRabbit/quno
+- https://github.com/lilBunnyRabbit/mario-kart-turnament
+- https://github.com/lilBunnyRabbit/chromatics
+-->
