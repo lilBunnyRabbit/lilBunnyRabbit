@@ -58,6 +58,24 @@ connecting with you!
             src="https://img.shields.io/npm/v/@lilbunnyrabbit/utils.svg" alt="npm version"></a></td>
       <td>TypeScript library containing a collection of utility classes, functions, etc.</td>
     </tr>
+    <tr>
+      <td>🚧 <a href="https://github.com/lilBunnyRabbit/chromatics">Chromatics</a></td>
+      <td></td>
+      <td>
+        Versatile and comprehensive toolkit for handling colors.
+        <br />
+        <blockquote><a href="https://github.com/lilBunnyRabbit/chromatics/tree/dev">Development branch</a></blockquote>
+      </td>
+    </tr>
+    <tr>
+      <td>🚧 <a href="https://github.com/lilBunnyRabbit/task-manager">Task Manager</a></td>
+      <td></td>
+      <td>
+        Refined version of <a href="https://gist.github.com/lilBunnyRabbit/8ba9a800b7cf9f91df84e15e9a2d6faa">TypeScript Task Management System.</a>
+        <br />
+        <blockquote><a href="https://github.com/lilBunnyRabbit/task-manager/tree/dev">Development branch</a></blockquote>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -93,16 +111,11 @@ connecting with you!
         <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
           title="TypeScript">
         &nbsp;
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/npm.svg" height="20px" alt="NPM Logo"
-          title="NPM">
-        &nbsp;
         <img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo"
           title="Svelte">
       </td>
       <td>
-        Color parser/builder/editor/converter/...
-        <br />
-        <blockquote><a href="https://github.com/lilBunnyRabbit/chromatics/tree/dev">Development branch</a></blockquote>
+        Manipulate color model values and experiment with RGB conversions.
       </td>
     </tr>
     <tr>
@@ -322,5 +335,4 @@ Other:
 WIP:
 - https://github.com/lilBunnyRabbit/quno
 - https://github.com/lilBunnyRabbit/mario-kart-turnament
-- https://github.com/lilBunnyRabbit/task-manager
 -->
