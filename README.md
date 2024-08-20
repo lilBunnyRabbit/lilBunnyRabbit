@@ -322,5 +322,5 @@ Other:
 WIP:
 - https://github.com/lilBunnyRabbit/quno
 - https://github.com/lilBunnyRabbit/mario-kart-turnament
-- https://github.com/lilBunnyRabbit/chromatics
+- https://github.com/lilBunnyRabbit/task-manager
 -->
