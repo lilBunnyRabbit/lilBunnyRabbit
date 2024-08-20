@@ -87,7 +87,7 @@ connecting with you!
       <td>Optimizes reading with rapid, adjustable text display for improved speed and comprehension.</td>
     </tr>
     <tr>
-      <td>🚧 <a href="https://github.com/static-utils-v2">Static Utils V3</a></td>
+      <td>🚧 <a href="https://github.com/static-utils-v3">Static Utils V3</a></td>
       <td>
         <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
           title="TypeScript">
@@ -238,6 +238,36 @@ Other:
 - https://lilbunnyrabbit.github.io/twitch-game/
 - 
 -->
+
+<h2>🛠️ Other Projects</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Technologies</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td><a href="https://lilbunnyrabbit.github.io/game-clip">Game Clip</a></td>
+      <td>
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/rust-crab.svg" height="20px" alt="Rust Logo"
+          title="Rust">
+      </td>
+      <td>Continuously records your screen and lets you save the last few seconds as a GIF with a simple keypress.</td>
+    </tr>
+    <tr>
+      <td><a href="https://lilbunnyrabbit.github.io/mc-flying-boat">Flying Boat</a></td>
+      <td>
+        <kbd>mcfunction</kbd>
+      </td>
+      <td>Minecraft datapack that allows players to buy and fly special coal-powered boats.</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2><img src="https://lilbunnyrabbit.github.io/readme-icons/github.svg" height="20px">&nbsp;&nbsp;Github Gists Worth
   Mentioning</h2>
