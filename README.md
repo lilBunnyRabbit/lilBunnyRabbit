@@ -315,6 +315,14 @@ Other:
       </td>
       <td>Minecraft plugin that connects discord chat with minecraft and some additional commands.</td>
     </tr>
+    <tr>
+      <td><a href="https://lilbunnyrabbit.github.io/quno">🚧 Quno</a></td>
+      <td>
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/go.svg" height="20px" alt="Golang Logo"
+          title="Golang">
+      </td>
+      <td>Quick notes CLI tool.</td>
+    </tr>
   </tbody>
 </table>
 
