@@ -128,6 +128,20 @@ connecting with you!
     </tr>
     <!-- React -->
     <tr>
+      <td>
+        <a href="https://lilbunnyrabbit.github.io/static-utils/">Static Utils</a>
+      </td>
+      <td>
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
+          title="TypeScript">
+        &nbsp;
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/react.svg" height="20px" alt="React Logo" title="React">
+      </td>
+      <td>
+        A collection of usefull static sites.
+      </td>
+    </tr>
+    <tr>
       <td><a href="https://lilbunnyrabbit.github.io/work-hours">Work Hours</a></td>
       <td>
         <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
@@ -214,20 +228,6 @@ connecting with you!
         <img src="https://lilbunnyrabbit.github.io/readme-icons/html.svg" height="20px" alt="HTML Logo" title="HTML">
       </td>
       <td>JavaScript library for state management.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://lilbunnyrabbit.github.io/static-utils/">Static Utils</a>
-      </td>
-      <td>
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
-          title="TypeScript">
-        &nbsp;
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/react.svg" height="20px" alt="React Logo" title="React">
-      </td>
-      <td>
-        A collection of usefull static sites.
-      </td>
     </tr>
     <tr>
       <td><a href="https://lilbunnyrabbit.github.io/readme-icons/">README Icons</a></td>
