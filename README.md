@@ -218,27 +218,12 @@ connecting with you!
     <tr>
       <td>
         <a href="https://lilbunnyrabbit.github.io/static-utils/">Static Utils</a>
-        <br />
-        🚧 <a href="https://lilbunnyrabbit.github.io/static-utils-v2/">Static Utils V2</a>
-        <br />
-        🚧 <a href="https://lilbunnyrabbit.github.io/static-utils-v3/">Static Utils V3</a>
       </td>
       <td>
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/javascript.svg" height="20px" alt="JavaScript Logo"
-          title="JavaScript">
-        &nbsp;
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/html.svg" height="20px" alt="HTML Logo" title="HTML">
-        <br />
         <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
           title="TypeScript">
         &nbsp;
         <img src="https://lilbunnyrabbit.github.io/readme-icons/react.svg" height="20px" alt="React Logo" title="React">
-        <br />
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
-          title="TypeScript">
-        &nbsp;
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo"
-          title="Svelte">
       </td>
       <td>
         A collection of usefull static sites.
