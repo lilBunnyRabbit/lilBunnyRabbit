@@ -60,10 +60,9 @@ connecting with you!
     </tr>
     <tr>
       <td><a href="https://github.com/lilBunnyRabbit/task-manager">Task Manager</a></td>
-      <td></td>
-      <td>
-        Refined version of <a href="https://gist.github.com/lilBunnyRabbit/8ba9a800b7cf9f91df84e15e9a2d6faa">TypeScript Task Management System.</a>
-      </td>
+      <td><a href="https://www.npmjs.com/package/@lilbunnyrabbit/task-manager"><img
+            src="https://img.shields.io/npm/v/@lilbunnyrabbit/task-manager.svg" alt="npm version"></a></td>
+      <td>Refined version of <a href="https://gist.github.com/lilBunnyRabbit/8ba9a800b7cf9f91df84e15e9a2d6faa">TypeScript Task Management System.</a></td>
     </tr>
     <tr>
       <td>🚧 <a href="https://github.com/lilBunnyRabbit/chromatics">Chromatics</a></td>
