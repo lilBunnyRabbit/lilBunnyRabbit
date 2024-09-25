@@ -68,12 +68,10 @@ connecting with you!
       </td>
     </tr>
     <tr>
-      <td>🚧 <a href="https://github.com/lilBunnyRabbit/task-manager">Task Manager</a></td>
+      <td><a href="https://github.com/lilBunnyRabbit/task-manager">Task Manager</a></td>
       <td></td>
       <td>
         Refined version of <a href="https://gist.github.com/lilBunnyRabbit/8ba9a800b7cf9f91df84e15e9a2d6faa">TypeScript Task Management System.</a>
-        <br />
-        <blockquote><a href="https://github.com/lilBunnyRabbit/task-manager/tree/dev">Development branch</a></blockquote>
       </td>
     </tr>
   </tbody>
