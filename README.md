@@ -301,7 +301,7 @@ Other:
       <td>Minecraft plugin that connects discord chat with minecraft and some additional commands.</td>
     </tr>
     <tr>
-      <td><a href="https://lilbunnyrabbit.github.io/quno">🚧 Quno</a></td>
+      <td><a href="https://github.com/lilBunnyRabbit/quno">🚧 Quno</a></td>
       <td>
         <img src="https://lilbunnyrabbit.github.io/readme-icons/go.svg" height="20px" alt="Golang Logo"
           title="Golang">
