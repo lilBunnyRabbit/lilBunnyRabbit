@@ -279,7 +279,7 @@ Other:
 
   <tbody>
     <tr>
-      <td><a href="https://lilbunnyrabbit.github.io/game-clip">Game Clip</a></td>
+      <td><a href="https://github.com/lilBunnyRabbit/game-clip">Game Clip</a></td>
       <td>
         <img src="https://lilbunnyrabbit.github.io/readme-icons/rust-crab.svg" height="20px" alt="Rust Logo"
           title="Rust">
@@ -287,7 +287,7 @@ Other:
       <td>Continuously records your screen and lets you save the last few seconds as a GIF with a simple keypress.</td>
     </tr>
     <tr>
-      <td><a href="https://lilbunnyrabbit.github.io/mc-flying-boat">Flying Boat</a></td>
+      <td><a href="https://github.com/lilBunnyRabbit/mc-flying-boat">Flying Boat</a></td>
       <td>
         <kbd>mcfunction</kbd>
       </td>
