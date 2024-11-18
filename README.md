@@ -23,6 +23,9 @@ enjoy this placeholder personality. 🚀
 <a href="mailto:amesaricsirec@gmail.com"><img
     src="https://img.shields.io/badge/Email-amesaricsirec%40gmail.com-%23505050?logo=gmail&logoColor=white&labelColor=%23c71610"
     alt="Email Link"></a>
+<a href="https://typehero.dev/@lilBunnyRabbit"><img
+    src="https://img.shields.io/badge/TypeHero-%40lilBunnyRabbit-%23505050?logo=typescript&logoColor=white&labelColor=%233178c6"
+    alt="TypeHero Link"></a>
 <br />
 <br />
 Feel free to reach out to me on any of my socials or via email for collaborations or just a chat. Looking forward to
