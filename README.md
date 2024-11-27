@@ -68,6 +68,12 @@ connecting with you!
       <td>Refined version of <a href="https://gist.github.com/lilBunnyRabbit/8ba9a800b7cf9f91df84e15e9a2d6faa">TypeScript Task Management System</a>.</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/lilBunnyRabbit/optional">Optional</a></td>
+      <td><a href="https://www.npmjs.com/package/@lilbunnyrabbit/optional"><img
+            src="https://img.shields.io/npm/v/@lilbunnyrabbit/optional.svg" alt="npm version"></a></td>
+      <td>TypeScript implementation of java.util.Optional<T> (<a href="https://gist.github.com/lilBunnyRabbit/ab44b9bafca79cf1fa8024d833a60e24">Gist</a>).</td>
+    </tr>
+    <tr>
       <td>🚧 <a href="https://github.com/lilBunnyRabbit/chromatics">Chromatics</a></td>
       <td></td>
       <td>
