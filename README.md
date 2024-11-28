@@ -65,13 +65,19 @@ connecting with you!
       <td><a href="https://github.com/lilBunnyRabbit/task-manager">Task Manager</a></td>
       <td><a href="https://www.npmjs.com/package/@lilbunnyrabbit/task-manager"><img
             src="https://img.shields.io/npm/v/@lilbunnyrabbit/task-manager.svg" alt="npm version"></a></td>
-      <td>Refined version of <a href="https://gist.github.com/lilBunnyRabbit/8ba9a800b7cf9f91df84e15e9a2d6faa">TypeScript Task Management System</a>.</td>
+      <td>A flexible and powerful task management system for managing asynchronous and synchronous tasks in TypeScript. (<a href="https://gist.github.com/lilBunnyRabbit/8ba9a800b7cf9f91df84e15e9a2d6faa">Gist</a>).</td>
     </tr>
     <tr>
       <td><a href="https://github.com/lilBunnyRabbit/optional">Optional</a></td>
       <td><a href="https://www.npmjs.com/package/@lilbunnyrabbit/optional"><img
             src="https://img.shields.io/npm/v/@lilbunnyrabbit/optional.svg" alt="npm version"></a></td>
       <td>TypeScript implementation of java.util.Optional<T> (<a href="https://gist.github.com/lilBunnyRabbit/ab44b9bafca79cf1fa8024d833a60e24">Gist</a>).</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lilBunnyRabbit/event-emitter">EventEmitter</a></td>
+      <td><a href="https://www.npmjs.com/package/@lilbunnyrabbit/event-emitter"><img
+            src="https://img.shields.io/npm/v/@lilbunnyrabbit/event-emitter.svg" alt="npm version"></a></td>
+      <td>A lightweight and type-safe EventEmitter implementation for TypeScript. (<a href="https://gist.github.com/lilBunnyRabbit/5c4370375c4974220f20c8b7a392de91">Gist</a>).</td>
     </tr>
     <tr>
       <td>🚧 <a href="https://github.com/lilBunnyRabbit/chromatics">Chromatics</a></td>
