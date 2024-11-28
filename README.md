@@ -36,52 +36,44 @@ connecting with you!
 <table>
   <thead>
     <tr>
-      <th>Project</th>
-      <th>NPM Version</th>
+      <th>Package</th>
       <th>Description</th>
     </tr>
   </thead>
 
   <tbody>
     <tr>
-      <td><a href="https://github.com/lilBunnyRabbit/service-observer">Service Observer</a></td>
       <td><a href="https://www.npmjs.com/package/@lilbunnyrabbit/service-observer"><img
-            src="https://img.shields.io/npm/v/@lilbunnyrabbit/service-observer.svg" alt="npm version"></a></td>
+            src="https://img.shields.io/npm/v/@lilbunnyrabbit/service-observer.svg?label=%40lilbunnyrabbit%2Fservice-observer" alt="npm version"></a></td>
       <td>Convenient way to observe and react to events within a service or application.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/lilBunnyRabbit/statefulia">Statefulia</a></td>
       <td><a href="https://www.npmjs.com/package/@lilbunnyrabbit/statefulia"><img
-            src="https://img.shields.io/npm/v/@lilbunnyrabbit/statefulia.svg" alt="npm version"></a></td>
+            src="https://img.shields.io/npm/v/@lilbunnyrabbit/statefulia.svg?label=%40lilbunnyrabbit%2Fstatefulia" alt="npm version"></a></td>
       <td>JavaScript/TypeScript library for state management.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/lilBunnyRabbit/typescript-utils">TypeScript Utils</a></td>
       <td><a href="https://www.npmjs.com/package/@lilbunnyrabbit/utils"><img
-            src="https://img.shields.io/npm/v/@lilbunnyrabbit/utils.svg" alt="npm version"></a></td>
+            src="https://img.shields.io/npm/v/@lilbunnyrabbit/utils.svg?label=%40lilbunnyrabbit%2Futils" alt="npm version"></a></td>
       <td>TypeScript library containing a collection of utility classes, functions, etc.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/lilBunnyRabbit/task-manager">Task Manager</a></td>
       <td><a href="https://www.npmjs.com/package/@lilbunnyrabbit/task-manager"><img
-            src="https://img.shields.io/npm/v/@lilbunnyrabbit/task-manager.svg" alt="npm version"></a></td>
+            src="https://img.shields.io/npm/v/@lilbunnyrabbit/task-manager.svg?label=%40lilbunnyrabbit%2Ftask-manager" alt="npm version"></a></td>
       <td>A flexible and powerful task management system for managing asynchronous and synchronous tasks in TypeScript. (<a href="https://gist.github.com/lilBunnyRabbit/8ba9a800b7cf9f91df84e15e9a2d6faa">Gist</a>).</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/lilBunnyRabbit/optional">Optional</a></td>
       <td><a href="https://www.npmjs.com/package/@lilbunnyrabbit/optional"><img
-            src="https://img.shields.io/npm/v/@lilbunnyrabbit/optional.svg" alt="npm version"></a></td>
+            src="https://img.shields.io/npm/v/@lilbunnyrabbit/optional.svg?label=%40lilbunnyrabbit%2Foptional" alt="npm version"></a></td>
       <td>TypeScript implementation of java.util.Optional<T> (<a href="https://gist.github.com/lilBunnyRabbit/ab44b9bafca79cf1fa8024d833a60e24">Gist</a>).</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/lilBunnyRabbit/event-emitter">EventEmitter</a></td>
       <td><a href="https://www.npmjs.com/package/@lilbunnyrabbit/event-emitter"><img
-            src="https://img.shields.io/npm/v/@lilbunnyrabbit/event-emitter.svg" alt="npm version"></a></td>
+            src="https://img.shields.io/npm/v/@lilbunnyrabbit/event-emitter.svg?label=%40lilbunnyrabbit%2Fevent-emitter" alt="npm version"></a></td>
       <td>A lightweight and type-safe EventEmitter implementation for TypeScript. (<a href="https://gist.github.com/lilBunnyRabbit/5c4370375c4974220f20c8b7a392de91">Gist</a>).</td>
     </tr>
     <tr>
-      <td>🚧 <a href="https://github.com/lilBunnyRabbit/chromatics">Chromatics</a></td>
-      <td></td>
+      <td>🚧 <a href="https://github.com/lilBunnyRabbit/chromatics">@lilbunnyrabbit/chromatics</a></td>
       <td>
         Versatile and comprehensive toolkit for handling colors.
         <br />
