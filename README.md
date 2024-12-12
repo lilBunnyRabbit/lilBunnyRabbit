@@ -325,6 +325,8 @@ Other:
 - [TypeScript Task Management System](https://gist.github.com/lilBunnyRabbit/8ba9a800b7cf9f91df84e15e9a2d6faa)
 - [TypeScript implementation of java.util.Optional<T>
   ](https://gist.github.com/lilBunnyRabbit/ab44b9bafca79cf1fa8024d833a60e24)
+- [Rust implementation of Circular Buffer](https://gist.github.com/lilBunnyRabbit/76ab75f214a9dc6c7e3b23b25f3798a4)
+- [Typescript implementation of LZ77](https://gist.github.com/lilBunnyRabbit/9a8f338a2ce2bf86fa463d5af13a27b6)
 
 
 
