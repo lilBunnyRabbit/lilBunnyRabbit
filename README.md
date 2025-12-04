@@ -321,6 +321,7 @@ Other:
 <h2><img src="https://lilbunnyrabbit.github.io/readme-icons/github.svg" height="20px">&nbsp;&nbsp;Github Gists Worth
   Mentioning</h2>
 
+- [Polymorphic React Component ](https://gist.github.com/lilBunnyRabbit/f410653edcacec1b12cb44af346caddb)
 - [TypeScript Event Handling](https://gist.github.com/lilBunnyRabbit/5c4370375c4974220f20c8b7a392de91)
 - [TypeScript Task Management System](https://gist.github.com/lilBunnyRabbit/8ba9a800b7cf9f91df84e15e9a2d6faa)
 - [TypeScript implementation of java.util.Optional<T>
