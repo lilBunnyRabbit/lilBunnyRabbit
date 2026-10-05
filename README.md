@@ -1,3 +1,6 @@
+<a href="https://lilbunnyrabbit.github.io/brand/"><img src="https://lilbunnyrabbit.github.io/brand/og.png"
+    alt="lilBunnyRabbit brand" width="100%"></a>
+
 <h2>🙋‍♂️ About Me</h2>
 
 Currently undergoing a full system upgrade to Human 2.0 - please excuse any temporary malfunctions. In the meantime,
@@ -77,14 +80,6 @@ connecting with you!
             src="https://img.shields.io/npm/v/@lilbunnyrabbit/event-emitter.svg?label=%40lilbunnyrabbit%2Fevent-emitter" alt="npm version"></a></td>
       <td>A lightweight and type-safe EventEmitter implementation for TypeScript. (<a href="https://gist.github.com/lilBunnyRabbit/5c4370375c4974220f20c8b7a392de91">Gist</a>).</td>
     </tr>
-    <tr>
-      <td>🚧 <a href="https://github.com/lilBunnyRabbit/chromatics">@lilbunnyrabbit/chromatics</a></td>
-      <td>
-        Versatile and comprehensive toolkit for handling colors.
-        <br />
-        <blockquote><a href="https://github.com/lilBunnyRabbit/chromatics/tree/dev">Development branch</a></blockquote>
-      </td>
-    </tr>
   </tbody>
 </table>
 
@@ -103,6 +98,51 @@ connecting with you!
   <tbody>
     <!-- Svelte -->
     <tr>
+      <td><a href="https://lilbunnyrabbit.github.io/chromatics/">Chromatics</a></td>
+      <td>
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
+          title="TypeScript">
+        &nbsp;
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo"
+          title="Svelte">
+      </td>
+      <td>
+        Write a short script that turns one brand color into a full palette, then check its contrast and preview it in real UI.
+        <br />
+        <i>Inspect any color across ~100 color models.</i>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://lilbunnyrabbit.github.io/petrace/">Petrace</a></td>
+      <td>
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
+          title="TypeScript">
+        &nbsp;
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo"
+          title="Svelte">
+      </td>
+      <td>
+        Overlays a see-through reference image on your phone's live camera so you can trace it onto paper.
+        <br />
+        <i>On-device outline mode turns photos into line art.</i>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://lilbunnyrabbit.github.io/series-tracker/">Series Tracker</a></td>
+      <td>
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
+          title="TypeScript">
+        &nbsp;
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo"
+          title="Svelte">
+      </td>
+      <td>
+        Track TV shows and movies down to the episode, with a watch diary, upcoming schedule and where-to-watch info.
+        <br />
+        <i>Bracket, spin and coin-flip pickers for what to watch next.</i>
+      </td>
+    </tr>
+    <tr>
       <td><a href="https://lilbunnyrabbit.github.io/advent-of-code">Advent of Code Solutions</a></td>
       <td>
         <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
@@ -113,19 +153,6 @@ connecting with you!
       </td>
       <td>Collection of my personal approaches to solving the puzzles presented by <a
           href="https://adventofcode.com/">Advent of Code</a>.</td>
-    </tr>
-    <tr>
-      <td>🚧 <a href="https://lilbunnyrabbit.github.io/chromatics">Chromatics</a></td>
-      <td>
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
-          title="TypeScript">
-        &nbsp;
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo"
-          title="Svelte">
-      </td>
-      <td>
-        Manipulate color model values and experiment with RGB conversions.
-      </td>
     </tr>
     <tr>
       <td><a href="https://lilbunnyrabbit.github.io/speed-reader/">Speed Reader</a></td>
@@ -139,6 +166,21 @@ connecting with you!
       <td>Optimizes reading with rapid, adjustable text display for improved speed and comprehension.</td>
     </tr>
     <!-- React -->
+    <tr>
+      <td><a href="https://lilbunnyrabbit.github.io/webos/">🚧 WebOS</a></td>
+      <td>
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
+          title="TypeScript">
+        &nbsp;
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/react.svg" height="20px" alt="React Logo"
+          title="React">
+      </td>
+      <td>
+        Desktop environment in the browser: draggable windows, a taskbar, and a private file system for small apps.
+        <br />
+        <i>Windows snap to screen edges and corners.</i>
+      </td>
+    </tr>
     <tr>
       <td>
         <a href="https://lilbunnyrabbit.github.io/static-utils/">Static Utils</a>
@@ -176,6 +218,21 @@ connecting with you!
       <td>PixelArt by lilBunnyRabbit.</td>
     </tr>
     <!-- HTML -->
+    <tr>
+      <td><a href="https://lilbunnyrabbit.github.io/logo-proof/">Logo Proof</a></td>
+      <td>
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/javascript.svg" height="20px" alt="JavaScript Logo"
+          title="JavaScript">
+        &nbsp;
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/html.svg" height="20px" alt="HTML Logo"
+          title="HTML">
+      </td>
+      <td>
+        Drop in a logo and see it across 116 real-world mockups, from favicons to business cards, before you ship it.
+        <br />
+        <i>Blink-compare up to four marks, astronomer style.</i>
+      </td>
+    </tr>
     <tr>
       <td><a href="https://lilbunnyrabbit.github.io/discord-vc-overlay/">Discord Voice Chat Overlay Generator</a></td>
       <td>
@@ -291,6 +348,18 @@ Other:
 
   <tbody>
     <tr>
+      <td><a href="https://github.com/lilBunnyRabbit/quno">Quno</a></td>
+      <td>
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/go.svg" height="20px" alt="Golang Logo"
+          title="Golang">
+      </td>
+      <td>
+        Terminal notes and todos where each idea can be handed to Claude Code to investigate, propose or implement.
+        <br />
+        <i>Press enter on a note to start a Claude session on it.</i>
+      </td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/lilBunnyRabbit/game-clip">Game Clip</a></td>
       <td>
         <img src="https://lilbunnyrabbit.github.io/readme-icons/rust-crab.svg" height="20px" alt="Rust Logo"
@@ -312,14 +381,6 @@ Other:
       </td>
       <td>Minecraft plugin that connects discord chat with minecraft and some additional commands.</td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/lilBunnyRabbit/quno">🚧 Quno</a></td>
-      <td>
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/go.svg" height="20px" alt="Golang Logo"
-          title="Golang">
-      </td>
-      <td>Quick notes CLI tool.</td>
-    </tr>
   </tbody>
 </table>
 
@@ -338,6 +399,5 @@ Other:
 
   <!--
 WIP:
-- https://github.com/lilBunnyRabbit/quno
 - https://github.com/lilBunnyRabbit/mario-kart-turnament
 -->
