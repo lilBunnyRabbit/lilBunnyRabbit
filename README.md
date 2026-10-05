@@ -1,5 +1,6 @@
 <a href="https://lilbunnyrabbit.github.io/brand/"><img src="https://lilbunnyrabbit.github.io/brand/og.png"
     alt="lilBunnyRabbit brand" width="100%"></a>
+<p align="center"><a href="https://lilbunnyrabbit.github.io/brand/">🎨 Brand guide: logo, palette and usage rules</a></p>
 
 <h2>🙋‍♂️ About Me</h2>
 
@@ -8,6 +9,9 @@ enjoy this placeholder personality. 🚀
 
 <h2>🌐 Socials</h2>
 
+<a href="https://lilbunnyrabbit.github.io/brand/"><img
+    src="https://img.shields.io/badge/Brand-lilBunnyRabbit-%23505050?logo=githubpages&logoColor=white&labelColor=%231a252d"
+    alt="Brand Link"></a>
 <a href="https://linkedin.com/in/andraz-mesaric-sirec"><img
     src="https://img.shields.io/badge/LinkedIn-%40andraz--mesaric--sirec-%23505050?logo=linkedin&logoColor=white&labelColor=%230077b5"
     alt="LinkedIn Link"></a>
