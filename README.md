@@ -147,6 +147,21 @@ connecting with you!
       </td>
     </tr>
     <tr>
+      <td><a href="https://lilbunnyrabbit.github.io/time-since/">Time Since</a></td>
+      <td>
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
+          title="TypeScript">
+        &nbsp;
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo"
+          title="Svelte">
+      </td>
+      <td>
+        Timers that count up from the last time something happened, with a history of every reset and the gaps between them.
+        <br />
+        <i>Installable PWA, works offline.</i>
+      </td>
+    </tr>
+    <tr>
       <td><a href="https://lilbunnyrabbit.github.io/advent-of-code">Advent of Code Solutions</a></td>
       <td>
         <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
@@ -361,6 +376,18 @@ Other:
         Terminal notes and todos where each idea can be handed to Claude Code to investigate, propose or implement.
         <br />
         <i>Press enter on a note to start a Claude session on it.</i>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lilBunnyRabbit/chrome-safe-inset">Chrome Safe Inset</a></td>
+      <td>
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
+          title="TypeScript">
+      </td>
+      <td>
+        Test CSS <code>safe-area-inset-*</code> layouts in desktop Chrome through the experimental DevTools Protocol override.
+        <br />
+        <i>No phone or simulator needed to check notch and home-indicator spacing.</i>
       </td>
     </tr>
     <tr>
