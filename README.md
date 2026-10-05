@@ -42,6 +42,11 @@ connecting with you!
   </thead>
 
   <tbody>
+          <tr>
+      <td><a href="https://www.npmjs.com/package/@lilbunnyrabbit/agtc"><img
+            src="https://img.shields.io/npm/v/@lilbunnyrabbit/agtc.svg?label=%40lilbunnyrabbit%2Fagtc" alt="npm version"></a></td>
+      <td>Agent Traffic Control: air traffic control for your coding agents. Terminal dashboard for local Claude Code and Codex sessions. (<a href="https://github.com/lilBunnyRabbit/agtc">GitHub</a>).</td>
+    </tr>
     <tr>
       <td><a href="https://www.npmjs.com/package/@lilbunnyrabbit/service-observer"><img
             src="https://img.shields.io/npm/v/@lilbunnyrabbit/service-observer.svg?label=%40lilbunnyrabbit%2Fservice-observer" alt="npm version"></a></td>
