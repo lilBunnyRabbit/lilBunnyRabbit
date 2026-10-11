@@ -38,6 +38,41 @@ enjoy this placeholder personality. 🚀
 Feel free to reach out to me on any of my socials or via email for collaborations or just a chat. Looking forward to
 connecting with you!
 
+<h2>⭐ Highlighted Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://lilbunnyrabbit.github.io/webos/">WebOS</a> 🚧</h3>
+      <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo" title="TypeScript">&nbsp;<img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo" title="Svelte">
+      <p>A desktop environment in the browser: draggable windows that snap to edges and corners, a taskbar, a desktop and a Unix-like private file system, with apps that load on demand.</p>
+      <p><i>🚧 Still a work in progress. Installable PWA, works offline.</i></p>
+      <a href="https://lilbunnyrabbit.github.io/webos/">Open WebOS</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://lilbunnyrabbit.github.io/chromatics/">Chromatics</a></h3>
+      <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo" title="TypeScript">&nbsp;<img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo" title="Svelte">
+      <p>Write a short script that turns one brand color into a full palette, then check its contrast and preview it in real UI.</p>
+      <p><i>Inspect any color across ~100 color models.</i></p>
+      <a href="https://lilbunnyrabbit.github.io/chromatics/">Open Chromatics</a> · <a href="https://github.com/lilBunnyRabbit/chromatics">GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lilBunnyRabbit/agtc">AGTC</a></h3>
+      <a href="https://www.npmjs.com/package/@lilbunnyrabbit/agtc"><img src="https://img.shields.io/npm/v/@lilbunnyrabbit/agtc.svg?label=%40lilbunnyrabbit%2Fagtc" alt="npm version"></a>
+      <p>Agent Traffic Control: air traffic control for your coding agents. Terminal dashboard for local Claude Code and Codex sessions.</p>
+      <a href="https://github.com/lilBunnyRabbit/agtc">GitHub</a> · <a href="https://www.npmjs.com/package/@lilbunnyrabbit/agtc">npm</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lilBunnyRabbit/task-manager">Task Manager</a></h3>
+      <a href="https://www.npmjs.com/package/@lilbunnyrabbit/task-manager"><img src="https://img.shields.io/npm/v/@lilbunnyrabbit/task-manager.svg?label=%40lilbunnyrabbit%2Ftask-manager" alt="npm version"></a>
+      <p>A flexible task management system for asynchronous and synchronous tasks in TypeScript, with queuing, parallel execution and progress tracking.</p>
+      <a href="https://github.com/lilBunnyRabbit/task-manager">GitHub</a> · <a href="https://www.npmjs.com/package/@lilbunnyrabbit/task-manager">npm</a>
+    </td>
+  </tr>
+</table>
+
 <h2><img src="https://lilbunnyrabbit.github.io/readme-icons/npm.svg" height="20px">&nbsp;&nbsp;NPM Packages</h2>
 
 <table>
@@ -184,22 +219,22 @@ connecting with you!
       </td>
       <td>Optimizes reading with rapid, adjustable text display for improved speed and comprehension.</td>
     </tr>
-    <!-- React -->
     <tr>
       <td><a href="https://lilbunnyrabbit.github.io/webos/">🚧 WebOS</a></td>
       <td>
         <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo"
           title="TypeScript">
         &nbsp;
-        <img src="https://lilbunnyrabbit.github.io/readme-icons/react.svg" height="20px" alt="React Logo"
-          title="React">
+        <img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo"
+          title="Svelte">
       </td>
       <td>
         Desktop environment in the browser: draggable windows, a taskbar, and a private file system for small apps.
         <br />
-        <i>Windows snap to screen edges and corners.</i>
+        <i>Work in progress. Windows snap to screen edges and corners.</i>
       </td>
     </tr>
+    <!-- React -->
     <tr>
       <td>
         <a href="https://lilbunnyrabbit.github.io/static-utils/">Static Utils</a>
