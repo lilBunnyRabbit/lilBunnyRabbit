@@ -43,10 +43,10 @@ connecting with you!
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://lilbunnyrabbit.github.io/webos/">WebOS</a> 🚧</h3>
+      <h3><a href="https://lilbunnyrabbit.github.io/webos/">WebOS</a></h3>
       <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo" title="TypeScript">&nbsp;<img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo" title="Svelte">
       <p>A desktop environment in the browser: draggable windows that snap to edges and corners, a taskbar, a desktop and a Unix-like private file system, with apps that load on demand.</p>
-      <p><i>🚧 Still a work in progress. Installable PWA, works offline.</i></p>
+      <p><i>Installable PWA, works offline.</i></p>
       <a href="https://lilbunnyrabbit.github.io/webos/">Open WebOS</a>
     </td>
     <td width="50%" valign="top">
