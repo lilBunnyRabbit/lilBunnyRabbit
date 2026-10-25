@@ -2,6 +2,13 @@
     alt="lilBunnyRabbit brand" width="100%"></a>
 <p align="center"><a href="https://lilbunnyrabbit.github.io/brand/">🎨 Brand guide: logo, palette and usage rules</a></p>
 
+<p align="center">
+  <a href="https://lilbunnyrabbit.github.io/portfolio/"><img
+      src="https://img.shields.io/badge/Open_my_portfolio-lilbunnyrabbit.github.io%2Fportfolio-%23505050?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=%231a252d"
+      alt="Open my portfolio"></a>
+</p>
+<p align="center"><b>A live tour of how I build: projects, principles and contact, running inside WebOS.</b></p>
+
 <h2>🙋‍♂️ About Me</h2>
 
 Currently undergoing a full system upgrade to Human 2.0 - please excuse any temporary malfunctions. In the meantime,
@@ -9,6 +16,9 @@ enjoy this placeholder personality. 🚀
 
 <h2>🌐 Socials</h2>
 
+<a href="https://lilbunnyrabbit.github.io/portfolio/"><img
+    src="https://img.shields.io/badge/Portfolio-lilbunnyrabbit.github.io%2Fportfolio-%23505050?logo=googlechrome&logoColor=white&labelColor=%231a252d"
+    alt="Portfolio Link"></a>
 <a href="https://lilbunnyrabbit.github.io/brand/"><img
     src="https://img.shields.io/badge/Brand-lilBunnyRabbit-%23505050?logo=githubpages&logoColor=white&labelColor=%231a252d"
     alt="Brand Link"></a>
@@ -382,7 +392,6 @@ Other:
 - https://lilbunnyrabbit.github.io/notes
 - https://lilbunnyrabbit.github.io/panda-aquarium
 - https://lilbunnyrabbit.github.io/panda-pool
-- https://lilbunnyrabbit.github.io/portfolio
 - https://lilbunnyrabbit.github.io/recepti
 - https://lilbunnyrabbit.github.io/three.js-testing
 - https://lilbunnyrabbit.github.io/twitch-game/
