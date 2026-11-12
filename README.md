@@ -71,6 +71,14 @@ connecting with you!
       <p><i>Installable PWA, works offline.</i></p>
       <a href="https://lilbunnyrabbit.github.io/webos/">Open WebOS</a> · <a href="https://github.com/lilBunnyRabbit/webos">GitHub</a>
     </td>
+    <td width="50%" valign="middle">
+      <a href="https://lilbunnyrabbit.github.io/webos/"><img src="https://lilbunnyrabbit.github.io/webos/og.png" alt="WebOS: a desktop with File Explorer, Terminal, a Pomodoro widget and a floating taskbar" width="100%"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="middle">
+      <a href="https://lilbunnyrabbit.github.io/chromatics/"><img src="https://lilbunnyrabbit.github.io/chromatics/og.png" alt="Chromatics" width="100%"></a>
+    </td>
     <td width="50%" valign="top">
       <h3><a href="https://lilbunnyrabbit.github.io/chromatics/">Chromatics</a></h3>
       <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo" title="TypeScript">&nbsp;<img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo" title="Svelte">
