@@ -52,11 +52,13 @@ connecting with you!
 
 <table>
   <tr>
-    <td colspan="2" valign="top">
-      <h3><a href="https://lilbunnyrabbit.github.io/hq/">hq</a></h3>
+    <td width="50%" valign="middle">
       <a href="https://lilbunnyrabbit.github.io/hq/"><img src="https://lilbunnyrabbit.github.io/hq/og.png" alt="hq: one git repo feeding quests, memory, setup, vault and team mode to Claude Code and Codex" width="100%"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://lilbunnyrabbit.github.io/hq/">hq</a></h3>
       <img src="https://lilbunnyrabbit.github.io/readme-icons/go.svg" height="20px" alt="Golang Logo" title="Golang">&nbsp;<img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo" title="TypeScript">
-      <p>A home base for coding agents: one git repo that gives Claude Code and Codex a backlog of quests, a memory that carries lessons across projects, the same setup on every machine, and a team mode with a live task board in Obsidian.</p>
+      <p>A home base for coding agents: one git repo that gives Claude Code and Codex a backlog, a memory across projects, one setup on every machine, and a team mode with a live board in Obsidian.</p>
       <p><i>Agents forget. hq remembers.</i></p>
       <a href="https://lilbunnyrabbit.github.io/hq/">How it works</a>
     </td>
