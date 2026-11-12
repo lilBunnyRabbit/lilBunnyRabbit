@@ -100,17 +100,25 @@ connecting with you!
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="middle">
+      <a href="https://github.com/lilBunnyRabbit/agtc"><img src="https://raw.githubusercontent.com/lilBunnyRabbit/agtc/master/docs/og/og.png" alt="agtc: a terminal dashboard listing Claude Code and Codex sessions as done, busy, input and idle" width="100%"></a>
+    </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/lilBunnyRabbit/agtc">AGTC</a></h3>
       <a href="https://www.npmjs.com/package/@lilbunnyrabbit/agtc"><img src="https://img.shields.io/npm/v/@lilbunnyrabbit/agtc.svg?label=%40lilbunnyrabbit%2Fagtc" alt="npm version"></a>
       <p>Agent Traffic Control: air traffic control for your coding agents. Terminal dashboard for local Claude Code and Codex sessions.</p>
       <a href="https://github.com/lilBunnyRabbit/agtc">GitHub</a> · <a href="https://www.npmjs.com/package/@lilbunnyrabbit/agtc">npm</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/lilBunnyRabbit/task-manager">Task Manager</a></h3>
+      <h3><a href="https://lilbunnyrabbit.github.io/task-manager">Task Manager</a></h3>
       <a href="https://www.npmjs.com/package/@lilbunnyrabbit/task-manager"><img src="https://img.shields.io/npm/v/@lilbunnyrabbit/task-manager.svg?label=%40lilbunnyrabbit%2Ftask-manager" alt="npm version"></a>
       <p>A flexible task management system for asynchronous and synchronous tasks in TypeScript, with queuing, parallel execution and progress tracking.</p>
-      <a href="https://github.com/lilBunnyRabbit/task-manager">GitHub</a> · <a href="https://www.npmjs.com/package/@lilbunnyrabbit/task-manager">npm</a>
+      <a href="https://lilbunnyrabbit.github.io/task-manager">Open Task Manager</a> · <a href="https://github.com/lilBunnyRabbit/task-manager">GitHub</a> · <a href="https://www.npmjs.com/package/@lilbunnyrabbit/task-manager">npm</a>
+    </td>
+    <td width="50%" valign="middle">
+      <a href="https://lilbunnyrabbit.github.io/task-manager"><img src="https://lilbunnyrabbit.github.io/task-manager/og-image.png" alt="Task Manager: task groups running in sequence and in parallel with progress" width="100%"></a>
     </td>
   </tr>
 </table>
