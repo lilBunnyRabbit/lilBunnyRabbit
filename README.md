@@ -77,14 +77,26 @@ connecting with you!
   </tr>
   <tr>
     <td width="50%" valign="middle">
-      <a href="https://lilbunnyrabbit.github.io/chromatics/"><img src="https://lilbunnyrabbit.github.io/chromatics/og.png" alt="Chromatics" width="100%"></a>
+      <a href="https://lilbunnyrabbit.github.io/harepin/"><img src="https://lilbunnyrabbit.github.io/harepin/og.jpg" alt="Harepin: a low-poly sports car on an island road at dusk" width="100%"></a>
     </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://lilbunnyrabbit.github.io/harepin/">Harepin</a></h3>
+      <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo" title="TypeScript">&nbsp;<kbd>three.js</kbd>
+      <p>A low-poly driving game in the browser: procedurally generated worlds, arcade-real handling, race and drift modes, a garage and peer-to-peer multiplayer.</p>
+      <p><i>Friends join with a link. No account, no server.</i></p>
+      <a href="https://lilbunnyrabbit.github.io/harepin/">Play Harepin</a> · <a href="https://github.com/lilBunnyRabbit/harepin">GitHub</a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://lilbunnyrabbit.github.io/chromatics/">Chromatics</a></h3>
       <img src="https://lilbunnyrabbit.github.io/readme-icons/typescript.svg" height="20px" alt="TypeScript Logo" title="TypeScript">&nbsp;<img src="https://lilbunnyrabbit.github.io/readme-icons/svelte.svg" height="20px" alt="Svelte Logo" title="Svelte">
       <p>Write a short script that turns one brand color into a full palette, then check its contrast and preview it in real UI.</p>
       <p><i>Inspect any color across ~100 color models.</i></p>
       <a href="https://lilbunnyrabbit.github.io/chromatics/">Open Chromatics</a> · <a href="https://github.com/lilBunnyRabbit/chromatics">GitHub</a>
+    </td>
+    <td width="50%" valign="middle">
+      <a href="https://lilbunnyrabbit.github.io/chromatics/"><img src="https://lilbunnyrabbit.github.io/chromatics/og.png" alt="Chromatics" width="100%"></a>
     </td>
   </tr>
   <tr>
